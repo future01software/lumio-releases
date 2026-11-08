@@ -2,7 +2,7 @@
 
 **Kendi IPTV listeni sinema keyfiyle izle.** Mac, Windows, Android ve Android TV için hızlı, şık ve ücretsiz bir IPTV oynatıcı.
 
-**[⬇ Son sürümü indir](../../releases/latest)**
+**[⬇ Son sürümü indir](../../releases/latest)** · **[Kaynak kod (MIT)](https://github.com/future01software/lumio-iptv)**
 
 ![Ana sayfa](screenshots/home.jpg)
 
@@ -43,6 +43,6 @@ Lumio yalnızca bir oynatıcıdır; içinde kanal, film ya da dizi yoktur. Kendi
 
 ---
 
-*English:* Lumio IPTV is a fast, free IPTV player for macOS, Windows, Android and Android TV. It supports Xtream Codes and M3U playlists, live TV with EPG, movies and series, multi-view, profiles and auto-update. It ships with no content: bring your own legal subscription. [Download the latest release](../../releases/latest).
+*English:* Lumio IPTV is a fast, free IPTV player for macOS, Windows, Android and Android TV. It supports Xtream Codes and M3U playlists, live TV with EPG, movies and series, multi-view, profiles and auto-update. It ships with no content: bring your own legal subscription. [Download the latest release](../../releases/latest). Open source under MIT: [future01software/lumio-iptv](https://github.com/future01software/lumio-iptv).
 
 Installed apps check this repository for updates automatically (`latest.json`).
