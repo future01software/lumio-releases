@@ -35,7 +35,7 @@
 | Android TV kutuları (32-bit) | `Lumio-IPTV-<sürüm>-armeabi-v7a.apk` |
 | Emin değilsen | `Lumio-IPTV-<sürüm>-universal.apk` |
 
-**Windows ve Android:** 1.1.11 kurulum dosyaları hazırlanıyor; o zamana kadar [1.1.7 sürümünü](../../releases/tag/v1.1.7) indir. Kurduğunda yeni sürüm çıkınca uygulama kendisi güncellenir.
+**Android ve Android TV:** 1.1.11 hazırlanıyor; o zamana kadar [1.1.7 sürümünü](../../releases/tag/v1.1.7) indir. Kurduğunda yeni sürüm çıkınca uygulama kendisi güncellenir.
 
 **Mac'te ilk açılış:** Uygulama Apple tarafından imzalanmadığı için ilk seferde Finder'da sağ tıklayıp **Aç**'ı seç.
 
